@@ -1,4 +1,4 @@
-﻿[{"id":1,"first_name":"Konstanze","last_name":"Dorling","email":"kdorling0@printfriendly.com","gender":"Female","ip_address":"2.106.33.111","state":"Florida","city":"Jacksonville"},
+{"id":1,"first_name":"Konstanze","last_name":"Dorling","email":"kdorling0@printfriendly.com","gender":"Female","ip_address":"2.106.33.111","state":"Florida","city":"Jacksonville"},
 {"id":2,"first_name":"Gordie","last_name":"Kirley","email":"gkirley1@dagondesign.com","gender":"Bigender","ip_address":"181.144.110.163","state":"Arizona","city":"Phoenix"},
 {"id":3,"first_name":"Cordelia","last_name":"Petrello","email":"cpetrello2@infoseek.co.jp","gender":"Female","ip_address":"223.46.56.152","state":"Florida","city":"Tampa"},
 {"id":4,"first_name":"Donovan","last_name":"Cyster","email":"dcyster3@oaic.gov.au","gender":"Genderfluid","ip_address":"181.131.43.103","state":"Tennessee","city":"Memphis"},
@@ -997,4 +997,4 @@
 {"id":997,"first_name":"Jeanine","last_name":"Livingstone","email":"jlivingstonero@arizona.edu","gender":"Female","ip_address":"13.230.161.0","state":"Tennessee","city":"Chattanooga"},
 {"id":998,"first_name":"Ignace","last_name":"Lowdham","email":"ilowdhamrp@networksolutions.com","gender":"Male","ip_address":"89.45.26.52","state":"Kansas","city":"Wichita"},
 {"id":999,"first_name":"Lynnelle","last_name":"Riccetti","email":"lriccettirq@sourceforge.net","gender":"Female","ip_address":"175.166.170.1","state":"Illinois","city":"Chicago"},
-{"id":1000,"first_name":"Jacobo","last_name":"Gorse","email":"jgorserr@shinystat.com","gender":"Male","ip_address":"102.180.28.132","state":"Tennessee","city":"Nashville"}]
+{"id":1000,"first_name":"Jacobo","last_name":"Gorse","email":"jgorserr@shinystat.com","gender":"Male","ip_address":"102.180.28.132","state":"Tennessee","city":"Nashville"}
