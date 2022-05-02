@@ -1,2 +1,2 @@
-city,aaa loc -72, 42, pop, 15338 state, A, zip, 00001
-city,bbb loc -74, 52, pop, 15338 state, B, zip, 00002
+city,aaa, loc, -72, 42, pop, 15338, state, A, zip, 00001
+city,bbb, loc, -74, 52, pop, 15338, state, B, zip, 00002
